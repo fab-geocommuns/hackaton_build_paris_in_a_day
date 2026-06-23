@@ -38,9 +38,9 @@ Tronçons de connection dans le 2e arrondissement de Paris
 -------
 
 ### L'algorithme
-1. Créer l'itinéraire pour un vélo qui traverse tout Paris  
-2. Découper Paris en n secteurs et faire un itinéraire par secteur  
-3. Trouver le n optimal pour avoir des secteurs équivalents  
+1. Créer l'itinéraire pour un vélo qui traverse tout Paris (problème du Postier Chinois [1] [2] et parcours eulérien [3] en théorie des graphes)  
+2. Découper Paris en n secteurs et faire un itinéraire par secteur    
+3. A la place de découper Paris en n secteurs, trouver le n optimal pour avoir des secteurs équivalents en pondérant les voies en fonction des distances, des pentes et du traffic  
 
 [Carte itinéraire 200km de trajet dans Paris](/maps/trajet_multi.html)
 
@@ -49,3 +49,23 @@ Tronçons de connection dans le 2e arrondissement de Paris
 -------
 
 ## La reconstitution des photos
+
+Proof of concept sur Strasbourg
+
+-------
+
+## Bibliographie
+
+1. **Problème du postier chinois** — Wikipédia  
+   https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_postier_chinois  
+   Présentation du problème de couverture minimale d'un graphe par ses arêtes, directement applicable à la planification d'itinéraires couvrant l'ensemble du réseau routier. :contentReference[oaicite:0]{index=0}
+
+2. van Ee, M., & Sitters, R. (2020).  
+   *The Chinese Deliveryman Problem*.  
+   4OR, 18, 341–356.  
+   https://link.springer.com/article/10.1007/s10288-019-00420-2  
+   Extension du problème du postier chinois visant à optimiser les temps de visite plutôt que la seule distance totale. :contentReference[oaicite:4]{index=4}
+
+3. **Graphe eulérien** — Wikipédia  
+   https://fr.wikipedia.org/wiki/Graphe_eul%C3%A9rien  
+   Définition des parcours et circuits eulériens, fondement théorique des algorithmes de couverture de voirie. :contentReference[oaicite:1]{index=1}
