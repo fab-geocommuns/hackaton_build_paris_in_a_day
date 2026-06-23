@@ -33,7 +33,7 @@ Et on exclu les bois de Boulogne et de Vincennes
 Tronçons de connection dans le 2e arrondissement de Paris
 ![](/presentation/img/paris2_connecteurs.png)
 
-4. Pondérer les voies : pente, traffic  
+4. Pondérer les voies : pente en récupérant les données d'élévation IGN, traffic avec les classification des voies par OSM (axe primaire, secondaire, tertiaire, résidentiel...) 
 
 -------
 
