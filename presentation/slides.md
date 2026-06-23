@@ -50,7 +50,16 @@ Tronçons de connection dans le 2e arrondissement de Paris
 
 ## La reconstitution des photos
 
-Proof of concept sur Strasbourg
+Proof of concept sur Strasbourg car bonne qualité de données
+
+<img width="2455" height="1704" alt="Capture d’écran du 2026-06-23 16-40-56" src="https://github.com/user-attachments/assets/3bb948fa-e909-4641-9aa3-27ec2852fdf6" />
+
+Récupération d'images sur un coin de rue:
+<img width="2455" height="1704" alt="image" src="https://github.com/user-attachments/assets/7c92875e-f51a-4eb5-ad89-270e36706c7d" />
+
+Entrainement d'un modèle de reconstitution 3D:
+
+<img width="2455" height="1704" alt="image" src="https://github.com/user-attachments/assets/7a597728-5d0b-4e7c-b997-1f7540a86bc7" />
 
 -------
 
