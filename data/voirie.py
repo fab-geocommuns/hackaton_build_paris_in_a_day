@@ -24,9 +24,12 @@ def get_paris_poly():
     return paris
 
 
-def get_voirie(paris):
+def get_voirie(poly=None):
+    if not poly:
+        poly = get_paris_poly()
+
     G = ox.graph_from_polygon(
-        paris,
+        poly,
         network_type="bike",
         truncate_by_edge=True
     )
