@@ -22,21 +22,9 @@ uv sync
 
 ### Les données
 
-Récupérer les données des voiries de Paris en vélo :  
+1. Récupérer les données des voiries de Paris en vélo
+2. Filtrer les impasses
 
-```{python}
-from data.voirie import get_voirie
-
-G = get_voirie()
-```
-
-Filtrer les impasses :  
-
-```{python}
-from data.filter import filter_impasses
-
-G_propre = filter_impasses(G)
-```
 
 ## Lancer le notebook
 
