@@ -1,3 +1,5 @@
+![](/presentation/img/mesure3DBUILDPARIS.gif)
+
 # Hackathon IGN : Paris en un jour
 
 But : photographier tout Paris en un jour.  
