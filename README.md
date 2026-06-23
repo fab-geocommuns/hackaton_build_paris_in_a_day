@@ -22,9 +22,24 @@ uv sync
 
 ### Les données
 
-Récupérer les données des voiries de Paris en vélo :
+Récupérer les données des voiries de Paris en vélo :  
+
 ```{python}
 from data.voirie import get_voirie
 
-edges, nodes = get_voirie()
+G = get_voirie()
 ```
+
+Filtrer les impasses :  
+
+```{python}
+from data.filter import filter_impasses
+
+G_propre = filter_impasses(G)
+```
+
+## Lancer le notebook
+
+- Ouvrir la Command Palette avec Ctrl+Shift+P (Windows/Linux) ou Cmd+Shift+P (Mac)  
+- Chercher et cliquer sur >Python: Select Interpreter  
+- Choisir Enter interpreter path… et entrer : /home/onyxia/work/hackaton_build_paris_in_a_day/.venv/bin/python
