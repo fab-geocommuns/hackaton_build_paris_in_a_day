@@ -21,10 +21,10 @@ def get_poly(place="Paris, France"):
                 paris.geoms,
                 key=lambda g: g.area
             )
-        return paris
+        return paris.geometry.iloc[0]
 
     else:
-        return poly
+        return poly.geometry.iloc[0]
 
 
 def get_voirie(place="Paris, France"):
