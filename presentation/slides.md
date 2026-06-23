@@ -35,15 +35,17 @@ Tronçons de connection dans le 2e arrondissement de Paris
 
 4. Pondérer les voies : pente, traffic  
 
+-------
+
 ### L'algorithme
 1. Créer l'itinéraire pour un vélo qui traverse tout Paris  
 2. Découper Paris en n secteurs et faire un itinéraire par secteur  
 3. Trouver le n optimal pour avoir des secteurs équivalents  
 
-![](/maps/trajet_multi.html)
+[Carte itinéraire 200km de trajet dans Paris](/maps/trajet_multi.html)
 
-![](/maps/trajet_velo_200km.html)
+[Carte itinéraire avec 2 vélos](/maps/trajet_multi.html)
+
+-------
 
 ## La reconstitution des photos
-
-Proof of concept sur Strasbourg
