@@ -40,6 +40,10 @@ Tronçons de connection dans le 2e arrondissement de Paris
 2. Découper Paris en n secteurs et faire un itinéraire par secteur  
 3. Trouver le n optimal pour avoir des secteurs équivalents  
 
+![](/maps/trajet_multi.html)
+
+![](/maps/trajet_velo_200km.html)
+
 ## La reconstitution des photos
 
 Proof of concept sur Strasbourg
