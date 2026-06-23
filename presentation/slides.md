@@ -5,7 +5,7 @@
 But : photographier tout Paris en un jour.  
 
 - Plusieurs vélo avec casque caméra embarquée  
-- Itinéraire complet et optimisé (le moins de repassage, le plus de couverture) de Paris sur un jour  
+- Itinéraire complet et optimisé (le moins de repassage, le plus de couverture) de Paris réalisable en un jour  
 - Reconstitution de Paris avec les photos récupérées  
 
 -------
