@@ -61,6 +61,10 @@ Entrainement d'un modèle de reconstitution 3D:
 
 [Capture vidéo du 2026-06-23 16-35-03.webm](https://github.com/user-attachments/assets/a07e54bb-b313-4c73-a877-72b485d1a25f)
 
+Gros fail 💥
+
+<img width="1536" height="1229" alt="image" src="https://github.com/user-attachments/assets/a0528be6-497c-41de-ba1a-840c458ad50b" />
+
 -------
 
 ## Bibliographie
