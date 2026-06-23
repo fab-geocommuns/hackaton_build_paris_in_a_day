@@ -58,14 +58,14 @@ Proof of concept sur Strasbourg
 
 1. **Problème du postier chinois** — Wikipédia  
    https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_postier_chinois  
-   Présentation du problème de couverture minimale d'un graphe par ses arêtes, directement applicable à la planification d'itinéraires couvrant l'ensemble du réseau routier. :contentReference[oaicite:0]{index=0}
+   Présentation du problème de couverture minimale d'un graphe par ses arêtes, directement applicable à la planification d'itinéraires couvrant l'ensemble du réseau routier.
 
 2. van Ee, M., & Sitters, R. (2020).  
    *The Chinese Deliveryman Problem*.  
    4OR, 18, 341–356.  
    https://link.springer.com/article/10.1007/s10288-019-00420-2  
-   Extension du problème du postier chinois visant à optimiser les temps de visite plutôt que la seule distance totale. :contentReference[oaicite:4]{index=4}
+   Extension du problème du postier chinois visant à optimiser les temps de visite plutôt que la seule distance totale.
 
 3. **Graphe eulérien** — Wikipédia  
    https://fr.wikipedia.org/wiki/Graphe_eul%C3%A9rien  
-   Définition des parcours et circuits eulériens, fondement théorique des algorithmes de couverture de voirie. :contentReference[oaicite:1]{index=1}
+   Définition des parcours et circuits eulériens, fondement théorique des algorithmes de couverture de voirie.
