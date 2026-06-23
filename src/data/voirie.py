@@ -21,7 +21,7 @@ def get_poly(place="Paris, France"):
                 paris.geoms,
                 key=lambda g: g.area
             )
-        return paris.geometry.iloc[0]
+        return paris
 
     else:
         return poly.geometry.iloc[0]
