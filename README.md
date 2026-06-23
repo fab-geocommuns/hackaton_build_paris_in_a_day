@@ -18,14 +18,6 @@ cd hackaton_build_paris_in_a_day
 uv sync
 ```
 
-## L'itinéraire vélo
-
-### Les données
-
-1. Récupérer les données des voiries de Paris en vélo
-2. Filtrer les impasses
-
-
 ## Lancer le notebook
 
 - Ouvrir la Command Palette avec Ctrl+Shift+P (Windows/Linux) ou Cmd+Shift+P (Mac)  
