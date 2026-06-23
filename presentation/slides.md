@@ -59,7 +59,7 @@ Récupération d'images sur un coin de rue:
 
 Entrainement d'un modèle de reconstitution 3D:
 
-<img width="2455" height="1704" alt="image" src="https://github.com/user-attachments/assets/7a597728-5d0b-4e7c-b997-1f7540a86bc7" />
+[Capture vidéo du 2026-06-23 16-35-03.webm](https://github.com/user-attachments/assets/a07e54bb-b313-4c73-a877-72b485d1a25f)
 
 -------
 
