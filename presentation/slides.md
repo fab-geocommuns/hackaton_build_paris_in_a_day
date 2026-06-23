@@ -14,22 +14,22 @@ But : photographier tout Paris en un jour.
 #### Récupérer les données des voiries de Paris en vélo  
 
 Voies cyclables de Paris (OSM), extraits avec le package `osmnx`
-![](/hackaton_build_paris_in_a_day/presentation/img/paris_bois.png)
+![](/presentation/img/paris_bois.png)
 
 Et on exclu les bois de Boulogne et de Vincennes
-![](/hackaton_build_paris_in_a_day/presentation/img/paris.png)
+![](/presentation/img/paris.png)
 
 -------
 
 #### Filtrer les petites impasses  
 2e arrondissement de Paris, filtré des impasses
-![](/hackaton_build_paris_in_a_day/presentation/img/paris2_impasse.png)
+![](/presentation/img/paris2_impasse.png)
 
 -------
 
 #### Détecter les tronçons de connection de voies  
 Tronçons de connection dans le 2e arrondissement de Paris
-![](/hackaton_build_paris_in_a_day/presentation/img/paris2_connecteurs.png)
+![](/presentation/img/paris2_connecteurs.png)
 
 4. Pondérer les voies : pente, traffic  
 
@@ -39,3 +39,5 @@ Tronçons de connection dans le 2e arrondissement de Paris
 3. Trouver le n optimal pour avoir des secteurs équivalents  
 
 ## La reconstitution des photos
+
+Proof of concept sur Strasbourg
